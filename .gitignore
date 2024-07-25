@@ -1,3 +1,0 @@
-gem install jekyll bundler
-jekyll new mysite
-cd mysite
